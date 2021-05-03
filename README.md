@@ -7,7 +7,7 @@ npm start
 ```
 Use this commands to install and run the API. 
 ## req/res
-Add new restaurant: **POST**
-Get all restaurants: **GET**
-Find restaurant by id: **GET**
-Find restaurant by name: **GET**
+Add new restaurant: **POST** /n
+Get all restaurants: **GET** /n
+Find restaurant by id: **GET** /n
+Find restaurant by name: **GET** /n
